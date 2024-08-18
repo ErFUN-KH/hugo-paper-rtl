@@ -1,3 +1,3 @@
-module github.com/nanxiaobei/hugo-paper
+module github.com/ErFUN-KH/hugo-paper-rtl
 
 go 1.20
